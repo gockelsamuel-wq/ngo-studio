@@ -1,0 +1,2 @@
+{ "name": "NGO Studio", "short_name": "NGO Studio", "description": "Reels, carousels and posters for charities, checked before they are posted.", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#17130F", "theme_color": "#17130F",
+  "icons": [{ "src": "icon-192.png", "sizes": "192x192", "type": "image/png" }, { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }] }
